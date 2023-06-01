@@ -8,5 +8,5 @@ spec:
   subnet_type: public
   DesiredCapacity: 1
   MaxSize: 6
-  ECSAMI: /aws/service/ecs/optimized-ami/amazon-linux-2/recommended/image_id
+  ECSAMI: /aws/service/ecs/optimized-ami/amazon-linux-2/recommended/ami-02d536a3ef8cd2838
   InstanceType: c4.xlarge
